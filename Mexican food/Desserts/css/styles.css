@@ -1,0 +1,19 @@
+h1 {
+  color: black;
+  text-align: center;
+  font-family: verdana;
+  font-size: 300%;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+body {
+  background-color: pink;
+  height: 900px;
+  width: 800px;
+  background-position: center;
+  background-size: cover;
+}

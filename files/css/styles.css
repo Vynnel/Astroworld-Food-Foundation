@@ -3,7 +3,7 @@ div.jumbotron {
   color: yellow;
   background-repeat: no-repeat;
   font-family: helvetica;
-  background-image: url(..//images/sandwich.jpg);
+  background-image: url(..//images/cocktails.jpg);
   margin: 30px;
   border: 1px solid black;
   text-align: center;
@@ -98,6 +98,7 @@ div.jumbotron {
 }
 body {
   background-color: black;
+  margin:25px;
 }
 
  #start{
@@ -107,11 +108,9 @@ body {
   /*opacity: 0.5;*/
 
 }
-#pic {
-  background-color: rgba(0, 0, 0, 0.5);
-}
 
 .well {
+ 
 
 }
 
@@ -122,11 +121,53 @@ img {
     max-width: 100%;
     height: auto;
 }
+#ing {
+  text-align: center;
+  background-image: url(..//images/ma.jpg);
+  color: yellow;
+}
+div.polaroid {
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+.mix {
+  color: yellow;
+  text-align: center;
+}
+.self {
+  text-align: center;
+  color: black;
+}
 h3 {
   text-decoration: underline;
   font-style: italic;
 }
+#yellow {
+  color: yellow;
+}
 .reg {
   text-align: center;
   text-decoration: overline;
+  color: yellow;
+}
+div.elbow {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: yellow;
+  background-repeat: no-repeat;
+  font-family: helvetica;
+  background-image: url(..//images/back.jpg);
+  margin: 30px;
+  border: 1px solid black;
+  text-align: center;
+  background-size: cover;
+}
+#content {
+  font-size: 20px;
 }
